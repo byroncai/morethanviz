@@ -1,0 +1,886 @@
+{
+  "HQ": [
+    {
+      "name": "275 Greenwich 1.jpg",
+      "url": "images/HQ/275%20Greenwich%201.jpg",
+      "preview": "images/previews/HQ/275%20Greenwich%201.jpg"
+    },
+    {
+      "name": "275 Greenwich 2.jpg",
+      "url": "images/HQ/275%20Greenwich%202.jpg",
+      "preview": "images/previews/HQ/275%20Greenwich%202.jpg"
+    },
+    {
+      "name": "275 Greenwich 3.jpg",
+      "url": "images/HQ/275%20Greenwich%203.jpg",
+      "preview": "images/previews/HQ/275%20Greenwich%203.jpg"
+    },
+    {
+      "name": "2021.jpg",
+      "url": "images/HQ/2021.jpg",
+      "preview": "images/previews/HQ/2021.jpg"
+    },
+    {
+      "name": "Bang Tower 1.jpg",
+      "url": "images/HQ/Bang%20Tower%201.jpg",
+      "preview": "images/previews/HQ/Bang%20Tower%201.jpg"
+    },
+    {
+      "name": "Bang Tower 2.jpg",
+      "url": "images/HQ/Bang%20Tower%202.jpg",
+      "preview": "images/previews/HQ/Bang%20Tower%202.jpg"
+    },
+    {
+      "name": "Bang Tower 3.jpg",
+      "url": "images/HQ/Bang%20Tower%203.jpg",
+      "preview": "images/previews/HQ/Bang%20Tower%203.jpg"
+    },
+    {
+      "name": "Bang Tower 4.jpg",
+      "url": "images/HQ/Bang%20Tower%204.jpg",
+      "preview": "images/previews/HQ/Bang%20Tower%204.jpg"
+    },
+    {
+      "name": "Beetle Design 1.jpg",
+      "url": "images/HQ/Beetle%20Design%201.jpg",
+      "preview": "images/previews/HQ/Beetle%20Design%201.jpg"
+    },
+    {
+      "name": "Beetle Design 2.jpg",
+      "url": "images/HQ/Beetle%20Design%202.jpg",
+      "preview": "images/previews/HQ/Beetle%20Design%202.jpg"
+    },
+    {
+      "name": "Bench.jpg",
+      "url": "images/HQ/Bench.jpg",
+      "preview": "images/previews/HQ/Bench.jpg"
+    },
+    {
+      "name": "Columbarium 1.jpg",
+      "url": "images/HQ/Columbarium%201.jpg",
+      "preview": "images/previews/HQ/Columbarium%201.jpg"
+    },
+    {
+      "name": "Columbarium 2.jpg",
+      "url": "images/HQ/Columbarium%202.jpg",
+      "preview": "images/previews/HQ/Columbarium%202.jpg"
+    },
+    {
+      "name": "Confidential Project.jpg",
+      "url": "images/HQ/Confidential%20Project.jpg",
+      "preview": "images/previews/HQ/Confidential%20Project.jpg"
+    },
+    {
+      "name": "Courthouse 1.jpg",
+      "url": "images/HQ/Courthouse%201.jpg",
+      "preview": "images/previews/HQ/Courthouse%201.jpg"
+    },
+    {
+      "name": "Courthouse 2.jpg",
+      "url": "images/HQ/Courthouse%202.jpg",
+      "preview": "images/previews/HQ/Courthouse%202.jpg"
+    },
+    {
+      "name": "Courthouse 3.jpg",
+      "url": "images/HQ/Courthouse%203.jpg",
+      "preview": "images/previews/HQ/Courthouse%203.jpg"
+    },
+    {
+      "name": "Curve.jpg",
+      "url": "images/HQ/Curve.jpg",
+      "preview": "images/previews/HQ/Curve.jpg"
+    },
+    {
+      "name": "Dark Sky Observatory 1.jpg",
+      "url": "images/HQ/Dark%20Sky%20Observatory%201.jpg",
+      "preview": "images/previews/HQ/Dark%20Sky%20Observatory%201.jpg"
+    },
+    {
+      "name": "Dark Sky Observatory 2.jpg",
+      "url": "images/HQ/Dark%20Sky%20Observatory%202.jpg",
+      "preview": "images/previews/HQ/Dark%20Sky%20Observatory%202.jpg"
+    },
+    {
+      "name": "Estonian Opera House 1.jpg",
+      "url": "images/HQ/Estonian%20Opera%20House%201.jpg",
+      "preview": "images/previews/HQ/Estonian%20Opera%20House%201.jpg"
+    },
+    {
+      "name": "Estonian Opera House 2.jpg",
+      "url": "images/HQ/Estonian%20Opera%20House%202.jpg",
+      "preview": "images/previews/HQ/Estonian%20Opera%20House%202.jpg"
+    },
+    {
+      "name": "Estonian Opera House 3.jpg",
+      "url": "images/HQ/Estonian%20Opera%20House%203.jpg",
+      "preview": "images/previews/HQ/Estonian%20Opera%20House%203.jpg"
+    },
+    {
+      "name": "Fair Haven Library 1.jpg",
+      "url": "images/HQ/Fair%20Haven%20Library%201.jpg",
+      "preview": "images/previews/HQ/Fair%20Haven%20Library%201.jpg"
+    },
+    {
+      "name": "Fair Haven Library 2.jpg",
+      "url": "images/HQ/Fair%20Haven%20Library%202.jpg",
+      "preview": "images/previews/HQ/Fair%20Haven%20Library%202.jpg"
+    },
+    {
+      "name": "Fair Haven Library 3.jpg",
+      "url": "images/HQ/Fair%20Haven%20Library%203.jpg",
+      "preview": "images/previews/HQ/Fair%20Haven%20Library%203.jpg"
+    },
+    {
+      "name": "Floating Field Cover.jpg",
+      "url": "images/HQ/Floating%20Field%20Cover.jpg",
+      "preview": "images/previews/HQ/Floating%20Field%20Cover.jpg"
+    },
+    {
+      "name": "Floating Field.jpg",
+      "url": "images/HQ/Floating%20Field.jpg",
+      "preview": "images/previews/HQ/Floating%20Field.jpg"
+    },
+    {
+      "name": "Flower Holder.jpg",
+      "url": "images/HQ/Flower%20Holder.jpg",
+      "preview": "images/previews/HQ/Flower%20Holder.jpg"
+    },
+    {
+      "name": "Four Cones Boolean.jpg",
+      "url": "images/HQ/Four%20Cones%20Boolean.jpg",
+      "preview": "images/previews/HQ/Four%20Cones%20Boolean.jpg"
+    },
+    {
+      "name": "Grid House 1.jpg",
+      "url": "images/HQ/Grid%20House%201.jpg",
+      "preview": "images/previews/HQ/Grid%20House%201.jpg"
+    },
+    {
+      "name": "Grid House 2.jpg",
+      "url": "images/HQ/Grid%20House%202.jpg",
+      "preview": "images/previews/HQ/Grid%20House%202.jpg"
+    },
+    {
+      "name": "House for a Musician in Switzerland 1.jpg",
+      "url": "images/HQ/House%20for%20a%20Musician%20in%20Switzerland%201.jpg",
+      "preview": "images/previews/HQ/House%20for%20a%20Musician%20in%20Switzerland%201.jpg"
+    },
+    {
+      "name": "House for a Musician in Switzerland 2.jpg",
+      "url": "images/HQ/House%20for%20a%20Musician%20in%20Switzerland%202.jpg",
+      "preview": "images/previews/HQ/House%20for%20a%20Musician%20in%20Switzerland%202.jpg"
+    },
+    {
+      "name": "House for a Musician in Switzerland 3.jpg",
+      "url": "images/HQ/House%20for%20a%20Musician%20in%20Switzerland%203.jpg",
+      "preview": "images/previews/HQ/House%20for%20a%20Musician%20in%20Switzerland%203.jpg"
+    },
+    {
+      "name": "House for a Musician in Switzerland 4.jpg",
+      "url": "images/HQ/House%20for%20a%20Musician%20in%20Switzerland%204.jpg",
+      "preview": "images/previews/HQ/House%20for%20a%20Musician%20in%20Switzerland%204.jpg"
+    },
+    {
+      "name": "House, Block, Commons 1.jpg",
+      "url": "images/HQ/House%2C%20Block%2C%20Commons%201.jpg",
+      "preview": "images/previews/HQ/House%2C%20Block%2C%20Commons%201.jpg"
+    },
+    {
+      "name": "House, Block, Commons 2.jpg",
+      "url": "images/HQ/House%2C%20Block%2C%20Commons%202.jpg",
+      "preview": "images/previews/HQ/House%2C%20Block%2C%20Commons%202.jpg"
+    },
+    {
+      "name": "House, Block, Commons 3.jpg",
+      "url": "images/HQ/House%2C%20Block%2C%20Commons%203.jpg",
+      "preview": "images/previews/HQ/House%2C%20Block%2C%20Commons%203.jpg"
+    },
+    {
+      "name": "House, Block, Commons 4.jpg",
+      "url": "images/HQ/House%2C%20Block%2C%20Commons%204.jpg",
+      "preview": "images/previews/HQ/House%2C%20Block%2C%20Commons%204.jpg"
+    },
+    {
+      "name": "House, Block, Commons 5.jpg",
+      "url": "images/HQ/House%2C%20Block%2C%20Commons%205.jpg",
+      "preview": "images/previews/HQ/House%2C%20Block%2C%20Commons%205.jpg"
+    },
+    {
+      "name": "House, Block, Commons 6.jpg",
+      "url": "images/HQ/House%2C%20Block%2C%20Commons%206.jpg",
+      "preview": "images/previews/HQ/House%2C%20Block%2C%20Commons%206.jpg"
+    },
+    {
+      "name": "House, Block, Commons 7.jpg",
+      "url": "images/HQ/House%2C%20Block%2C%20Commons%207.jpg",
+      "preview": "images/previews/HQ/House%2C%20Block%2C%20Commons%207.jpg"
+    },
+    {
+      "name": "Hyperloop Station.jpg",
+      "url": "images/HQ/Hyperloop%20Station.jpg",
+      "preview": "images/previews/HQ/Hyperloop%20Station.jpg"
+    },
+    {
+      "name": "Iceland Coffee House 1.jpg",
+      "url": "images/HQ/Iceland%20Coffee%20House%201.jpg",
+      "preview": "images/previews/HQ/Iceland%20Coffee%20House%201.jpg"
+    },
+    {
+      "name": "Iceland Coffee House 2.jpg",
+      "url": "images/HQ/Iceland%20Coffee%20House%202.jpg",
+      "preview": "images/previews/HQ/Iceland%20Coffee%20House%202.jpg"
+    },
+    {
+      "name": "Idea Exchange Toronto 2021.jpg",
+      "url": "images/HQ/Idea%20Exchange%20Toronto%202021.jpg",
+      "preview": "images/previews/HQ/Idea%20Exchange%20Toronto%202021.jpg"
+    },
+    {
+      "name": "Interior.jpg",
+      "url": "images/HQ/Interior.jpg",
+      "preview": "images/previews/HQ/Interior.jpg"
+    },
+    {
+      "name": "La Voiture Noire.jpg",
+      "url": "images/HQ/La%20Voiture%20Noire.jpg",
+      "preview": "images/previews/HQ/La%20Voiture%20Noire.jpg"
+    },
+    {
+      "name": "Made to Dwell _ (Copy).jpg",
+      "url": "images/HQ/Made%20to%20Dwell%20_%20(Copy).jpg",
+      "preview": "images/previews/HQ/Made%20to%20Dwell%20_%20(Copy).jpg"
+    },
+    {
+      "name": "Made to Dwell 2.jpg",
+      "url": "images/HQ/Made%20to%20Dwell%202.jpg",
+      "preview": "images/previews/HQ/Made%20to%20Dwell%202.jpg"
+    },
+    {
+      "name": "Made to Dwell Interior 2.jpg",
+      "url": "images/HQ/Made%20to%20Dwell%20Interior%202.jpg",
+      "preview": "images/previews/HQ/Made%20to%20Dwell%20Interior%202.jpg"
+    },
+    {
+      "name": "Made to Dwell Interior.jpg",
+      "url": "images/HQ/Made%20to%20Dwell%20Interior.jpg",
+      "preview": "images/previews/HQ/Made%20to%20Dwell%20Interior.jpg"
+    },
+    {
+      "name": "Made to Dwell.jpg",
+      "url": "images/HQ/Made%20to%20Dwell.jpg",
+      "preview": "images/previews/HQ/Made%20to%20Dwell.jpg"
+    },
+    {
+      "name": "Methane Living Cycle.jpg",
+      "url": "images/HQ/Methane%20Living%20Cycle.jpg",
+      "preview": "images/previews/HQ/Methane%20Living%20Cycle.jpg"
+    },
+    {
+      "name": "Museum in Porta Portese 1.jpg",
+      "url": "images/HQ/Museum%20in%20Porta%20Portese%201.jpg",
+      "preview": "images/previews/HQ/Museum%20in%20Porta%20Portese%201.jpg"
+    },
+    {
+      "name": "Museum in Porta Portese 2.jpg",
+      "url": "images/HQ/Museum%20in%20Porta%20Portese%202.jpg",
+      "preview": "images/previews/HQ/Museum%20in%20Porta%20Portese%202.jpg"
+    },
+    {
+      "name": "Museum of Eric Klarenbeek.jpg",
+      "url": "images/HQ/Museum%20of%20Eric%20Klarenbeek.jpg",
+      "preview": "images/previews/HQ/Museum%20of%20Eric%20Klarenbeek.jpg"
+    },
+    {
+      "name": "Music School in Bloomsbury.jpg",
+      "url": "images/HQ/Music%20School%20in%20Bloomsbury.jpg",
+      "preview": "images/previews/HQ/Music%20School%20in%20Bloomsbury.jpg"
+    },
+    {
+      "name": "New Haven Library.jpg",
+      "url": "images/HQ/New%20Haven%20Library.jpg",
+      "preview": "images/previews/HQ/New%20Haven%20Library.jpg"
+    },
+    {
+      "name": "Not A Hotel 2026 Aerial Mountain.jpg",
+      "url": "images/HQ/Not%20A%20Hotel%202026%20Aerial%20Mountain.jpg",
+      "preview": "images/previews/HQ/Not%20A%20Hotel%202026%20Aerial%20Mountain.jpg"
+    },
+    {
+      "name": "Not A Hotel 2026 Aerial Night.jpg",
+      "url": "images/HQ/Not%20A%20Hotel%202026%20Aerial%20Night.jpg",
+      "preview": "images/previews/HQ/Not%20A%20Hotel%202026%20Aerial%20Night.jpg"
+    },
+    {
+      "name": "Not A Hotel 2026 Aerial Water.jpg",
+      "url": "images/HQ/Not%20A%20Hotel%202026%20Aerial%20Water.jpg",
+      "preview": "images/previews/HQ/Not%20A%20Hotel%202026%20Aerial%20Water.jpg"
+    },
+    {
+      "name": "Not A Hotel 2026 Deer.jpg",
+      "url": "images/HQ/Not%20A%20Hotel%202026%20Deer.jpg",
+      "preview": "images/previews/HQ/Not%20A%20Hotel%202026%20Deer.jpg"
+    },
+    {
+      "name": "Not A Hotel 2026 Elevation.jpg",
+      "url": "images/HQ/Not%20A%20Hotel%202026%20Elevation.jpg",
+      "preview": "images/previews/HQ/Not%20A%20Hotel%202026%20Elevation.jpg"
+    },
+    {
+      "name": "Not A Hotel 2026 Guest Bedroom Night.jpg",
+      "url": "images/HQ/Not%20A%20Hotel%202026%20Guest%20Bedroom%20Night.jpg",
+      "preview": "images/previews/HQ/Not%20A%20Hotel%202026%20Guest%20Bedroom%20Night.jpg"
+    },
+    {
+      "name": "Not A Hotel 2026 Guest Bedroom.jpg",
+      "url": "images/HQ/Not%20A%20Hotel%202026%20Guest%20Bedroom.jpg",
+      "preview": "images/previews/HQ/Not%20A%20Hotel%202026%20Guest%20Bedroom.jpg"
+    },
+    {
+      "name": "Not A Hotel 2026 Kitchen and Living.jpg",
+      "url": "images/HQ/Not%20A%20Hotel%202026%20Kitchen%20and%20Living.jpg",
+      "preview": "images/previews/HQ/Not%20A%20Hotel%202026%20Kitchen%20and%20Living.jpg"
+    },
+    {
+      "name": "Not A Hotel 2026 Master Bedroom.jpg",
+      "url": "images/HQ/Not%20A%20Hotel%202026%20Master%20Bedroom.jpg",
+      "preview": "images/previews/HQ/Not%20A%20Hotel%202026%20Master%20Bedroom.jpg"
+    },
+    {
+      "name": "Not A Hotel 2026 Roof Rain.jpg",
+      "url": "images/HQ/Not%20A%20Hotel%202026%20Roof%20Rain.jpg",
+      "preview": "images/previews/HQ/Not%20A%20Hotel%202026%20Roof%20Rain.jpg"
+    },
+    {
+      "name": "Not A Hotel 2026 Sauna Crop.jpg",
+      "url": "images/HQ/Not%20A%20Hotel%202026%20Sauna%20Crop.jpg",
+      "preview": "images/previews/HQ/Not%20A%20Hotel%202026%20Sauna%20Crop.jpg"
+    },
+    {
+      "name": "Not A Hotel 2026 Sauna Interior.jpg",
+      "url": "images/HQ/Not%20A%20Hotel%202026%20Sauna%20Interior.jpg",
+      "preview": "images/previews/HQ/Not%20A%20Hotel%202026%20Sauna%20Interior.jpg"
+    },
+    {
+      "name": "Not A Hotel 2026 Terrace.jpg",
+      "url": "images/HQ/Not%20A%20Hotel%202026%20Terrace.jpg",
+      "preview": "images/previews/HQ/Not%20A%20Hotel%202026%20Terrace.jpg"
+    },
+    {
+      "name": "Opera House in Santa Fe.jpg",
+      "url": "images/HQ/Opera%20House%20in%20Santa%20Fe.jpg",
+      "preview": "images/previews/HQ/Opera%20House%20in%20Santa%20Fe.jpg"
+    },
+    {
+      "name": "P1.jpg",
+      "url": "images/HQ/P1.jpg",
+      "preview": "images/previews/HQ/P1.jpg"
+    },
+    {
+      "name": "Pavilion on top of a Hill.jpg",
+      "url": "images/HQ/Pavilion%20on%20top%20of%20a%20Hill.jpg",
+      "preview": "images/previews/HQ/Pavilion%20on%20top%20of%20a%20Hill.jpg"
+    },
+    {
+      "name": "Private Project.jpg",
+      "url": "images/HQ/Private%20Project.jpg",
+      "preview": "images/previews/HQ/Private%20Project.jpg"
+    },
+    {
+      "name": "Rehab Center 1.jpg",
+      "url": "images/HQ/Rehab%20Center%201.jpg",
+      "preview": "images/previews/HQ/Rehab%20Center%201.jpg"
+    },
+    {
+      "name": "Rehab Center 2.jpg",
+      "url": "images/HQ/Rehab%20Center%202.jpg",
+      "preview": "images/previews/HQ/Rehab%20Center%202.jpg"
+    },
+    {
+      "name": "RENDER 1 V3.jpg",
+      "url": "images/HQ/RENDER%201%20V3.jpg",
+      "preview": "images/previews/HQ/RENDER%201%20V3.jpg"
+    },
+    {
+      "name": "RENDER 6 DAY.jpg",
+      "url": "images/HQ/RENDER%206%20DAY.jpg",
+      "preview": "images/previews/HQ/RENDER%206%20DAY.jpg"
+    },
+    {
+      "name": "RENDER 7.jpg",
+      "url": "images/HQ/RENDER%207.jpg",
+      "preview": "images/previews/HQ/RENDER%207.jpg"
+    },
+    {
+      "name": "RENDER 11.jpg",
+      "url": "images/HQ/RENDER%2011.jpg",
+      "preview": "images/previews/HQ/RENDER%2011.jpg"
+    },
+    {
+      "name": "Roy and Diana Vagelos Education Center 1.jpg",
+      "url": "images/HQ/Roy%20and%20Diana%20Vagelos%20Education%20Center%201.jpg",
+      "preview": "images/previews/HQ/Roy%20and%20Diana%20Vagelos%20Education%20Center%201.jpg"
+    },
+    {
+      "name": "Roy and Diana Vagelos Education Center 2.jpg",
+      "url": "images/HQ/Roy%20and%20Diana%20Vagelos%20Education%20Center%202.jpg",
+      "preview": "images/previews/HQ/Roy%20and%20Diana%20Vagelos%20Education%20Center%202.jpg"
+    },
+    {
+      "name": "Rudolph Hall Extension.jpg",
+      "url": "images/HQ/Rudolph%20Hall%20Extension.jpg",
+      "preview": "images/previews/HQ/Rudolph%20Hall%20Extension.jpg"
+    },
+    {
+      "name": "Undisclosed 1.jpg",
+      "url": "images/HQ/Undisclosed%201.jpg",
+      "preview": "images/previews/HQ/Undisclosed%201.jpg"
+    },
+    {
+      "name": "Undisclosed 2.jpg",
+      "url": "images/HQ/Undisclosed%202.jpg",
+      "preview": "images/previews/HQ/Undisclosed%202.jpg"
+    },
+    {
+      "name": "University Club of Toronto.jpg",
+      "url": "images/HQ/University%20Club%20of%20Toronto.jpg",
+      "preview": "images/previews/HQ/University%20Club%20of%20Toronto.jpg"
+    },
+    {
+      "name": "Untitled 1.jpg",
+      "url": "images/HQ/Untitled%201.jpg",
+      "preview": "images/previews/HQ/Untitled%201.jpg"
+    },
+    {
+      "name": "Untitled 2.jpg",
+      "url": "images/HQ/Untitled%202.jpg",
+      "preview": "images/previews/HQ/Untitled%202.jpg"
+    },
+    {
+      "name": "US Embassy in Brussels 1.jpg",
+      "url": "images/HQ/US%20Embassy%20in%20Brussels%201.jpg",
+      "preview": "images/previews/HQ/US%20Embassy%20in%20Brussels%201.jpg"
+    },
+    {
+      "name": "US Embassy in Brussels 2.jpg",
+      "url": "images/HQ/US%20Embassy%20in%20Brussels%202.jpg",
+      "preview": "images/previews/HQ/US%20Embassy%20in%20Brussels%202.jpg"
+    },
+    {
+      "name": "US Embassy in Brussels 3.jpg",
+      "url": "images/HQ/US%20Embassy%20in%20Brussels%203.jpg",
+      "preview": "images/previews/HQ/US%20Embassy%20in%20Brussels%203.jpg"
+    },
+    {
+      "name": "US Embassy in Brussels 4.jpg",
+      "url": "images/HQ/US%20Embassy%20in%20Brussels%204.jpg",
+      "preview": "images/previews/HQ/US%20Embassy%20in%20Brussels%204.jpg"
+    },
+    {
+      "name": "US Embassy in Brussels 5.jpg",
+      "url": "images/HQ/US%20Embassy%20in%20Brussels%205.jpg",
+      "preview": "images/previews/HQ/US%20Embassy%20in%20Brussels%205.jpg"
+    },
+    {
+      "name": "US Embassy in Brussels 6.jpg",
+      "url": "images/HQ/US%20Embassy%20in%20Brussels%206.jpg",
+      "preview": "images/previews/HQ/US%20Embassy%20in%20Brussels%206.jpg"
+    },
+    {
+      "name": "US Embassy in Brussels 7.jpg",
+      "url": "images/HQ/US%20Embassy%20in%20Brussels%207.jpg",
+      "preview": "images/previews/HQ/US%20Embassy%20in%20Brussels%207.jpg"
+    },
+    {
+      "name": "Washing Pillows, Dreaming Rainwater.jpg",
+      "url": "images/HQ/Washing%20Pillows%2C%20Dreaming%20Rainwater.jpg",
+      "preview": "images/previews/HQ/Washing%20Pillows%2C%20Dreaming%20Rainwater.jpg"
+    }
+  ],
+  "LQ": [
+    {
+      "name": "01.jpg",
+      "url": "images/LQ/01.jpg",
+      "preview": "images/previews/LQ/01.jpg"
+    },
+    {
+      "name": "2018_MORETHANVIZ_CAESURA_1_LQ.jpg",
+      "url": "images/LQ/2018_MORETHANVIZ_CAESURA_1_LQ.jpg",
+      "preview": "images/previews/LQ/2018_MORETHANVIZ_CAESURA_1_LQ.jpg"
+    },
+    {
+      "name": "2019_MORETHANVIZ_MEK_2_LQ.jpg",
+      "url": "images/LQ/2019_MORETHANVIZ_MEK_2_LQ.jpg",
+      "preview": "images/previews/LQ/2019_MORETHANVIZ_MEK_2_LQ.jpg"
+    },
+    {
+      "name": "2020_MORETHANVIZ_BENCH_4_LQ.jpg",
+      "url": "images/LQ/2020_MORETHANVIZ_BENCH_4_LQ.jpg",
+      "preview": "images/previews/LQ/2020_MORETHANVIZ_BENCH_4_LQ.jpg"
+    },
+    {
+      "name": "2020_MORETHANVIZ_BLOOMSBURY_2_LQ.jpg",
+      "url": "images/LQ/2020_MORETHANVIZ_BLOOMSBURY_2_LQ.jpg",
+      "preview": "images/previews/LQ/2020_MORETHANVIZ_BLOOMSBURY_2_LQ.jpg"
+    },
+    {
+      "name": "2020_MORETHANVIZ_BLOOMSBURY_3_LQ.jpg",
+      "url": "images/LQ/2020_MORETHANVIZ_BLOOMSBURY_3_LQ.jpg",
+      "preview": "images/previews/LQ/2020_MORETHANVIZ_BLOOMSBURY_3_LQ.jpg"
+    },
+    {
+      "name": "2020_MORETHANVIZ_OPERA_09_LQ.jpg",
+      "url": "images/LQ/2020_MORETHANVIZ_OPERA_09_LQ.jpg",
+      "preview": "images/previews/LQ/2020_MORETHANVIZ_OPERA_09_LQ.jpg"
+    },
+    {
+      "name": "2020_MORETHANVIZ_OPERA_10_LQ.jpg",
+      "url": "images/LQ/2020_MORETHANVIZ_OPERA_10_LQ.jpg",
+      "preview": "images/previews/LQ/2020_MORETHANVIZ_OPERA_10_LQ.jpg"
+    },
+    {
+      "name": "2020_MORETHANVIZ_OPERA_11_lQ.jpg",
+      "url": "images/LQ/2020_MORETHANVIZ_OPERA_11_lQ.jpg",
+      "preview": "images/previews/LQ/2020_MORETHANVIZ_OPERA_11_lQ.jpg"
+    },
+    {
+      "name": "2020_MORETHANVIZ_OPERA_16_LQ.jpg",
+      "url": "images/LQ/2020_MORETHANVIZ_OPERA_16_LQ.jpg",
+      "preview": "images/previews/LQ/2020_MORETHANVIZ_OPERA_16_LQ.jpg"
+    },
+    {
+      "name": "2020_MORETHANVIZ_OPERA_17_LQ.jpg",
+      "url": "images/LQ/2020_MORETHANVIZ_OPERA_17_LQ.jpg",
+      "preview": "images/previews/LQ/2020_MORETHANVIZ_OPERA_17_LQ.jpg"
+    },
+    {
+      "name": "2020_MORETHANVIZ_SHERBOURNE_1_LQ.jpg",
+      "url": "images/LQ/2020_MORETHANVIZ_SHERBOURNE_1_LQ.jpg",
+      "preview": "images/previews/LQ/2020_MORETHANVIZ_SHERBOURNE_1_LQ.jpg"
+    },
+    {
+      "name": "2020_MORETHANVIZ_SHERBOURNE_2_LQ.jpg",
+      "url": "images/LQ/2020_MORETHANVIZ_SHERBOURNE_2_LQ.jpg",
+      "preview": "images/previews/LQ/2020_MORETHANVIZ_SHERBOURNE_2_LQ.jpg"
+    },
+    {
+      "name": "2020_MORETHANVIZ_SHERBOURNE_3_LQ.jpg",
+      "url": "images/LQ/2020_MORETHANVIZ_SHERBOURNE_3_LQ.jpg",
+      "preview": "images/previews/LQ/2020_MORETHANVIZ_SHERBOURNE_3_LQ.jpg"
+    },
+    {
+      "name": "2020_MORETHANVIZ_TREEHOUSE_1_LQ.jpg",
+      "url": "images/LQ/2020_MORETHANVIZ_TREEHOUSE_1_LQ.jpg",
+      "preview": "images/previews/LQ/2020_MORETHANVIZ_TREEHOUSE_1_LQ.jpg"
+    },
+    {
+      "name": "2021_MORETHANVIZ_CH_3_LQ.jpg",
+      "url": "images/LQ/2021_MORETHANVIZ_CH_3_LQ.jpg",
+      "preview": "images/previews/LQ/2021_MORETHANVIZ_CH_3_LQ.jpg"
+    },
+    {
+      "name": "2021_MORETHANVIZ_MUSICIANHOUSE_LQ_3.jpg",
+      "url": "images/LQ/2021_MORETHANVIZ_MUSICIANHOUSE_LQ_3.jpg",
+      "preview": "images/previews/LQ/2021_MORETHANVIZ_MUSICIANHOUSE_LQ_3.jpg"
+    },
+    {
+      "name": "2021_MORETHANVIZ_MUSICIANHOUSE_LQ_6.jpg",
+      "url": "images/LQ/2021_MORETHANVIZ_MUSICIANHOUSE_LQ_6.jpg",
+      "preview": "images/previews/LQ/2021_MORETHANVIZ_MUSICIANHOUSE_LQ_6.jpg"
+    },
+    {
+      "name": "2022_MORETHANVIZ_BUG_01_LQ.jpg",
+      "url": "images/LQ/2022_MORETHANVIZ_BUG_01_LQ.jpg",
+      "preview": "images/previews/LQ/2022_MORETHANVIZ_BUG_01_LQ.jpg"
+    },
+    {
+      "name": "2022_MORETHANVIZ_BUG_02_LQ.jpg",
+      "url": "images/LQ/2022_MORETHANVIZ_BUG_02_LQ.jpg",
+      "preview": "images/previews/LQ/2022_MORETHANVIZ_BUG_02_LQ.jpg"
+    },
+    {
+      "name": "2022_MORETHANVIZ_BUG_03_LQ.jpg",
+      "url": "images/LQ/2022_MORETHANVIZ_BUG_03_LQ.jpg",
+      "preview": "images/previews/LQ/2022_MORETHANVIZ_BUG_03_LQ.jpg"
+    },
+    {
+      "name": "2022_MORETHANVIZ_BUG_05_lQ.jpg",
+      "url": "images/LQ/2022_MORETHANVIZ_BUG_05_lQ.jpg",
+      "preview": "images/previews/LQ/2022_MORETHANVIZ_BUG_05_lQ.jpg"
+    },
+    {
+      "name": "2022_MORETHANVIZ_BUG_08_LQ.jpg",
+      "url": "images/LQ/2022_MORETHANVIZ_BUG_08_LQ.jpg",
+      "preview": "images/previews/LQ/2022_MORETHANVIZ_BUG_08_LQ.jpg"
+    },
+    {
+      "name": "2022_MORETHANVIZ_ICH_2_LQ.jpg",
+      "url": "images/LQ/2022_MORETHANVIZ_ICH_2_LQ.jpg",
+      "preview": "images/previews/LQ/2022_MORETHANVIZ_ICH_2_LQ.jpg"
+    },
+    {
+      "name": "2022_MORETHANVIZ_MDPP_1_LQ.jpg",
+      "url": "images/LQ/2022_MORETHANVIZ_MDPP_1_LQ.jpg",
+      "preview": "images/previews/LQ/2022_MORETHANVIZ_MDPP_1_LQ.jpg"
+    },
+    {
+      "name": "2022_MORETHANVIZ_MDPP_5_LQ.jpg",
+      "url": "images/LQ/2022_MORETHANVIZ_MDPP_5_LQ.jpg",
+      "preview": "images/previews/LQ/2022_MORETHANVIZ_MDPP_5_LQ.jpg"
+    },
+    {
+      "name": "2022_MORETHANVIZ_OBSERVATORY_LQ_01.jpg",
+      "url": "images/LQ/2022_MORETHANVIZ_OBSERVATORY_LQ_01.jpg",
+      "preview": "images/previews/LQ/2022_MORETHANVIZ_OBSERVATORY_LQ_01.jpg"
+    },
+    {
+      "name": "2022_MORETHANVIZ_OBSERVATORY_LQ_02.jpg",
+      "url": "images/LQ/2022_MORETHANVIZ_OBSERVATORY_LQ_02.jpg",
+      "preview": "images/previews/LQ/2022_MORETHANVIZ_OBSERVATORY_LQ_02.jpg"
+    },
+    {
+      "name": "2022_MORETHANVIZ_OBSERVATORY_LQ_03.jpg",
+      "url": "images/LQ/2022_MORETHANVIZ_OBSERVATORY_LQ_03.jpg",
+      "preview": "images/previews/LQ/2022_MORETHANVIZ_OBSERVATORY_LQ_03.jpg"
+    },
+    {
+      "name": "2022_MORETHANVIZ_OBSERVATORY_LQ_04.jpg",
+      "url": "images/LQ/2022_MORETHANVIZ_OBSERVATORY_LQ_04.jpg",
+      "preview": "images/previews/LQ/2022_MORETHANVIZ_OBSERVATORY_LQ_04.jpg"
+    },
+    {
+      "name": "2022_MORETHANVIZ_OBSERVATORY_LQ_05.jpg",
+      "url": "images/LQ/2022_MORETHANVIZ_OBSERVATORY_LQ_05.jpg",
+      "preview": "images/previews/LQ/2022_MORETHANVIZ_OBSERVATORY_LQ_05.jpg"
+    },
+    {
+      "name": "2022_MORETHANVIZ_OBSERVATORY_LQ_06.jpg",
+      "url": "images/LQ/2022_MORETHANVIZ_OBSERVATORY_LQ_06.jpg",
+      "preview": "images/previews/LQ/2022_MORETHANVIZ_OBSERVATORY_LQ_06.jpg"
+    },
+    {
+      "name": "2022_MORETHANVIZ_OBSERVATORY_LQ_07.jpg",
+      "url": "images/LQ/2022_MORETHANVIZ_OBSERVATORY_LQ_07.jpg",
+      "preview": "images/previews/LQ/2022_MORETHANVIZ_OBSERVATORY_LQ_07.jpg"
+    },
+    {
+      "name": "2022_MORETHANVIZ_OBSERVATORY_LQ_08.jpg",
+      "url": "images/LQ/2022_MORETHANVIZ_OBSERVATORY_LQ_08.jpg",
+      "preview": "images/previews/LQ/2022_MORETHANVIZ_OBSERVATORY_LQ_08.jpg"
+    },
+    {
+      "name": "2022_MORETHANVIZ_OBSERVATORY_LQ_09.jpg",
+      "url": "images/LQ/2022_MORETHANVIZ_OBSERVATORY_LQ_09.jpg",
+      "preview": "images/previews/LQ/2022_MORETHANVIZ_OBSERVATORY_LQ_09.jpg"
+    },
+    {
+      "name": "2022_MORETHANVIZ_OBSERVATORY_LQ_10.jpg",
+      "url": "images/LQ/2022_MORETHANVIZ_OBSERVATORY_LQ_10.jpg",
+      "preview": "images/previews/LQ/2022_MORETHANVIZ_OBSERVATORY_LQ_10.jpg"
+    },
+    {
+      "name": "2022_MORETHANVIZ_OBSERVATORY_LQ_11.jpg",
+      "url": "images/LQ/2022_MORETHANVIZ_OBSERVATORY_LQ_11.jpg",
+      "preview": "images/previews/LQ/2022_MORETHANVIZ_OBSERVATORY_LQ_11.jpg"
+    },
+    {
+      "name": "2022_MORETHANVIZ_OBSERVATORY_LQ_12.jpg",
+      "url": "images/LQ/2022_MORETHANVIZ_OBSERVATORY_LQ_12.jpg",
+      "preview": "images/previews/LQ/2022_MORETHANVIZ_OBSERVATORY_LQ_12.jpg"
+    },
+    {
+      "name": "2022_MORETHANVIZ_OBSERVATORY_LQ_13.jpg",
+      "url": "images/LQ/2022_MORETHANVIZ_OBSERVATORY_LQ_13.jpg",
+      "preview": "images/previews/LQ/2022_MORETHANVIZ_OBSERVATORY_LQ_13.jpg"
+    },
+    {
+      "name": "2022_MORETHANVIZ_OBSERVATORY_LQ_14.jpg",
+      "url": "images/LQ/2022_MORETHANVIZ_OBSERVATORY_LQ_14.jpg",
+      "preview": "images/previews/LQ/2022_MORETHANVIZ_OBSERVATORY_LQ_14.jpg"
+    },
+    {
+      "name": "2023_MORETHANVIZ_CUMC_DSR_5_LQ.jpg",
+      "url": "images/LQ/2023_MORETHANVIZ_CUMC_DSR_5_LQ.jpg",
+      "preview": "images/previews/LQ/2023_MORETHANVIZ_CUMC_DSR_5_LQ.jpg"
+    },
+    {
+      "name": "2023_MORETHANVIZ_CUMC_DSR_6_LQ.jpg",
+      "url": "images/LQ/2023_MORETHANVIZ_CUMC_DSR_6_LQ.jpg",
+      "preview": "images/previews/LQ/2023_MORETHANVIZ_CUMC_DSR_6_LQ.jpg"
+    },
+    {
+      "name": "2023_MORETHANVIZ_CUMC_DSR_7_LQ.jpg",
+      "url": "images/LQ/2023_MORETHANVIZ_CUMC_DSR_7_LQ.jpg",
+      "preview": "images/previews/LQ/2023_MORETHANVIZ_CUMC_DSR_7_LQ.jpg"
+    },
+    {
+      "name": "2023_MORETHANVIZ_GRID_LQ_1.jpg",
+      "url": "images/LQ/2023_MORETHANVIZ_GRID_LQ_1.jpg",
+      "preview": "images/previews/LQ/2023_MORETHANVIZ_GRID_LQ_1.jpg"
+    },
+    {
+      "name": "2023_MORETHANVIZ_HOUSE WITHIN AN OFFICE_3.jpg",
+      "url": "images/LQ/2023_MORETHANVIZ_HOUSE%20WITHIN%20AN%20OFFICE_3.jpg",
+      "preview": "images/previews/LQ/2023_MORETHANVIZ_HOUSE%20WITHIN%20AN%20OFFICE_3.jpg"
+    },
+    {
+      "name": "2023_MORETHANVIZ_HOUSE WITHIN AN OFFICE_4.jpg",
+      "url": "images/LQ/2023_MORETHANVIZ_HOUSE%20WITHIN%20AN%20OFFICE_4.jpg",
+      "preview": "images/previews/LQ/2023_MORETHANVIZ_HOUSE%20WITHIN%20AN%20OFFICE_4.jpg"
+    },
+    {
+      "name": "2023_MORETHANVIZ_REHAB_3_LQ.jpg",
+      "url": "images/LQ/2023_MORETHANVIZ_REHAB_3_LQ.jpg",
+      "preview": "images/previews/LQ/2023_MORETHANVIZ_REHAB_3_LQ.jpg"
+    },
+    {
+      "name": "2023_MORETHANVIZ_REHAB_5_LQ.jpg",
+      "url": "images/LQ/2023_MORETHANVIZ_REHAB_5_LQ.jpg",
+      "preview": "images/previews/LQ/2023_MORETHANVIZ_REHAB_5_LQ.jpg"
+    },
+    {
+      "name": "2023_MORETHANVIZ_REHAB_6_LQ.jpg",
+      "url": "images/LQ/2023_MORETHANVIZ_REHAB_6_LQ.jpg",
+      "preview": "images/previews/LQ/2023_MORETHANVIZ_REHAB_6_LQ.jpg"
+    },
+    {
+      "name": "2023_MORETHANVIZ_REHAB_7_LQ.jpg",
+      "url": "images/LQ/2023_MORETHANVIZ_REHAB_7_LQ.jpg",
+      "preview": "images/previews/LQ/2023_MORETHANVIZ_REHAB_7_LQ.jpg"
+    },
+    {
+      "name": "2023_MORETHANVIZ_UNICLUB_1_LQ.jpg",
+      "url": "images/LQ/2023_MORETHANVIZ_UNICLUB_1_LQ.jpg",
+      "preview": "images/previews/LQ/2023_MORETHANVIZ_UNICLUB_1_LQ.jpg"
+    },
+    {
+      "name": "2023_MORETHANVIZ_UNICLUB_5_LQ.jpg",
+      "url": "images/LQ/2023_MORETHANVIZ_UNICLUB_5_LQ.jpg",
+      "preview": "images/previews/LQ/2023_MORETHANVIZ_UNICLUB_5_LQ.jpg"
+    },
+    {
+      "name": "2023_MORETHANVIZ_YALE_DSR_05_LQ.jpg",
+      "url": "images/LQ/2023_MORETHANVIZ_YALE_DSR_05_LQ.jpg",
+      "preview": "images/previews/LQ/2023_MORETHANVIZ_YALE_DSR_05_LQ.jpg"
+    },
+    {
+      "name": "2023_MORETHANVIZ_YALE_DSR_06_LQ.jpg",
+      "url": "images/LQ/2023_MORETHANVIZ_YALE_DSR_06_LQ.jpg",
+      "preview": "images/previews/LQ/2023_MORETHANVIZ_YALE_DSR_06_LQ.jpg"
+    },
+    {
+      "name": "2023_MORETHANVIZ_YALE_DSR_07_LQ.jpg",
+      "url": "images/LQ/2023_MORETHANVIZ_YALE_DSR_07_LQ.jpg",
+      "preview": "images/previews/LQ/2023_MORETHANVIZ_YALE_DSR_07_LQ.jpg"
+    },
+    {
+      "name": "2023_MORETHANVIZ_YALE_DSR_11_LQ.jpg",
+      "url": "images/LQ/2023_MORETHANVIZ_YALE_DSR_11_LQ.jpg",
+      "preview": "images/previews/LQ/2023_MORETHANVIZ_YALE_DSR_11_LQ.jpg"
+    },
+    {
+      "name": "2023_MORETHANVIZ_YALE_DSR_12_LQ.jpg",
+      "url": "images/LQ/2023_MORETHANVIZ_YALE_DSR_12_LQ.jpg",
+      "preview": "images/previews/LQ/2023_MORETHANVIZ_YALE_DSR_12_LQ.jpg"
+    },
+    {
+      "name": "2023_MORETHANVIZ_YALE_DSR_13_LQ.jpg",
+      "url": "images/LQ/2023_MORETHANVIZ_YALE_DSR_13_LQ.jpg",
+      "preview": "images/previews/LQ/2023_MORETHANVIZ_YALE_DSR_13_LQ.jpg"
+    },
+    {
+      "name": "2023_MORETHANVIZ_YALEBP2023_1_LQ.jpg",
+      "url": "images/LQ/2023_MORETHANVIZ_YALEBP2023_1_LQ.jpg",
+      "preview": "images/previews/LQ/2023_MORETHANVIZ_YALEBP2023_1_LQ.jpg"
+    },
+    {
+      "name": "2023_MORETHANVIZ_YALEBP2023_2_LQ.jpg",
+      "url": "images/LQ/2023_MORETHANVIZ_YALEBP2023_2_LQ.jpg",
+      "preview": "images/previews/LQ/2023_MORETHANVIZ_YALEBP2023_2_LQ.jpg"
+    },
+    {
+      "name": "2024_MORETHANVIZ_3XN OLYMPIC HOUSE_Sketch1.jpg",
+      "url": "images/LQ/2024_MORETHANVIZ_3XN%20OLYMPIC%20HOUSE_Sketch1.jpg",
+      "preview": "images/previews/LQ/2024_MORETHANVIZ_3XN%20OLYMPIC%20HOUSE_Sketch1.jpg"
+    },
+    {
+      "name": "2024_MORETHANVIZ_HOUSE WITHIN AN OFFICE_Sketch.jpg",
+      "url": "images/LQ/2024_MORETHANVIZ_HOUSE%20WITHIN%20AN%20OFFICE_Sketch.jpg",
+      "preview": "images/previews/LQ/2024_MORETHANVIZ_HOUSE%20WITHIN%20AN%20OFFICE_Sketch.jpg"
+    },
+    {
+      "name": "aerial sketch.jpg",
+      "url": "images/LQ/aerial%20sketch.jpg",
+      "preview": "images/previews/LQ/aerial%20sketch.jpg"
+    },
+    {
+      "name": "atrium render.jpg",
+      "url": "images/LQ/atrium%20render.jpg",
+      "preview": "images/previews/LQ/atrium%20render.jpg"
+    },
+    {
+      "name": "cam aerial edited 2.jpg",
+      "url": "images/LQ/cam%20aerial%20edited%202.jpg",
+      "preview": "images/previews/LQ/cam%20aerial%20edited%202.jpg"
+    },
+    {
+      "name": "Estonia Opera House Sunset.jpg",
+      "url": "images/LQ/Estonia%20Opera%20House%20Sunset.jpg",
+      "preview": "images/previews/LQ/Estonia%20Opera%20House%20Sunset.jpg"
+    },
+    {
+      "name": "HuangACore3WIP.jpg",
+      "url": "images/LQ/HuangACore3WIP.jpg",
+      "preview": "images/previews/LQ/HuangACore3WIP.jpg"
+    },
+    {
+      "name": "imagesketch.jpg",
+      "url": "images/LQ/imagesketch.jpg",
+      "preview": "images/previews/LQ/imagesketch.jpg"
+    },
+    {
+      "name": "INT 1 b EXTRA_edit2.jpg",
+      "url": "images/LQ/INT%201%20b%20EXTRA_edit2.jpg",
+      "preview": "images/previews/LQ/INT%201%20b%20EXTRA_edit2.jpg"
+    },
+    {
+      "name": "lobby 3.jpg",
+      "url": "images/LQ/lobby%203.jpg",
+      "preview": "images/previews/LQ/lobby%203.jpg"
+    },
+    {
+      "name": "Rudolph Misty.jpg",
+      "url": "images/LQ/Rudolph%20Misty.jpg",
+      "preview": "images/previews/LQ/Rudolph%20Misty.jpg"
+    },
+    {
+      "name": "Screenshot 2026-01-27 154040.jpg",
+      "url": "images/LQ/Screenshot%202026-01-27%20154040.jpg",
+      "preview": "images/previews/LQ/Screenshot%202026-01-27%20154040.jpg"
+    },
+    {
+      "name": "sketch byron 2.jpg",
+      "url": "images/LQ/sketch%20byron%202.jpg",
+      "preview": "images/previews/LQ/sketch%20byron%202.jpg"
+    },
+    {
+      "name": "ThomCorn2.jpg",
+      "url": "images/LQ/ThomCorn2.jpg",
+      "preview": "images/previews/LQ/ThomCorn2.jpg"
+    },
+    {
+      "name": "Untitled(1).jpg",
+      "url": "images/LQ/Untitled(1).jpg",
+      "preview": "images/previews/LQ/Untitled(1).jpg"
+    },
+    {
+      "name": "V8 NAH Sketch.jpg",
+      "url": "images/LQ/V8%20NAH%20Sketch.jpg",
+      "preview": "images/previews/LQ/V8%20NAH%20Sketch.jpg"
+    },
+    {
+      "name": "VIEW_EXT_4.jpg",
+      "url": "images/LQ/VIEW_EXT_4.jpg",
+      "preview": "images/previews/LQ/VIEW_EXT_4.jpg"
+    }
+  ]
+}

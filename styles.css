@@ -1,0 +1,126 @@
+:root{--paper:#fafaf8;--ink:#30322f;--muted:#71756e;--line:#dedfd9;--space:clamp(24px,5vw,80px)}*{box-sizing:border-box}html{scroll-behavior:smooth;scroll-padding-top:110px}body{margin:0;background:var(--paper);color:var(--ink);font-family:Arial,Helvetica,sans-serif;font-size:16px;-webkit-font-smoothing:antialiased}a{color:inherit;text-decoration:none}button{font:inherit;color:inherit;border:0;cursor:pointer;background:none}button,a{-webkit-tap-highlight-color:transparent}a:focus-visible,button:focus-visible{outline:2px solid #525d47;outline-offset:6px}button:disabled{opacity:.3;cursor:default}::selection{background:#d7dfc9}.skip{position:fixed;top:-100px;left:20px;z-index:30;padding:16px;background:white}.skip:focus{top:16px}.navigation{position:fixed;z-index:10;top:24px;left:24px;padding:23px 25px;background:rgba(250,250,248,.87);backdrop-filter:blur(16px);width:176px}.wordmark{display:block;font-size:27px;letter-spacing:-1.3px;margin-bottom:30px}.wordmark span{font-size:11px;vertical-align:top;letter-spacing:0;margin-left:3px}.navigation nav{display:grid;gap:7px;font-size:14px}.navigation nav a{width:fit-content}.navigation nav a:after,.text-link:after{content:'';height:1px;background:currentColor;display:block;transform:scaleX(0);transform-origin:left;transition:transform .3s}.navigation nav a:hover:after,.text-link:hover:after{transform:scaleX(1)}.nav-note{display:none}.hero{height:max(760px,100svh);position:relative;overflow:hidden;isolation:isolate}.canvas{position:absolute;inset:0;cursor:grab;touch-action:pan-y}.canvas.dragging{cursor:grabbing}.image-plane{position:absolute;width:100%;height:100%;transform-origin:50% 45%;will-change:transform}.hero-image{position:absolute;padding:0;overflow:hidden;background:#e0e2dc;transition:filter .35s;user-select:none}.hero-image img{width:100%;height:100%;object-fit:cover;display:block;pointer-events:none}.hero-image:hover{filter:brightness(1.07)}.hero-image:nth-child(1){width:28%;height:43%;left:-2%;top:-5%}.hero-image:nth-child(2){width:32%;height:36%;left:72%;top:3%}.hero-image:nth-child(3){width:27%;height:32%;left:-3%;top:52%}.hero-image:nth-child(4){width:30%;height:39%;left:73%;top:51%}.hero-image:nth-child(5){width:25%;height:22%;left:37%;top:-15%}.hero-image:nth-child(6){width:28%;height:27%;left:36%;top:82%}.intro{position:absolute;left:35%;top:31%;width:31%;pointer-events:none}.intro a{pointer-events:auto}.eyebrow{font-size:12px!important;letter-spacing:.09em;text-transform:uppercase;margin-bottom:30px!important;color:var(--muted)}h1{font-size:clamp(30px,3.2vw,54px);font-weight:400;line-height:1.1;letter-spacing:-.055em;margin:0 0 24px}.intro p{font-size:15px;line-height:1.7;color:var(--muted);margin:0 0 26px}.text-link{display:inline-block;font-size:14px;padding-bottom:7px}.text-link span{margin-left:20px}.hero-bottom{position:absolute;bottom:25px;left:28px;right:28px;display:flex;align-items:end;justify-content:space-between;pointer-events:none}.hero-caption,.canvas-hint{font-size:12px;line-height:1.5;color:#5b6157;background:rgba(250,250,248,.82);padding:8px}.canvas-controls{display:flex;gap:1px;pointer-events:auto;margin-left:auto;margin-right:25px;background:rgba(250,250,248,.94);border:1px solid var(--line);align-items:center}.canvas-controls button{height:38px;min-width:38px;font-size:18px}.canvas-controls #reset{font-size:12px;min-width:55px}.canvas-controls button:hover{background:#e9eae3}.section{padding:110px var(--space)}.section-heading{display:flex;justify-content:space-between;gap:20px;border-top:1px solid var(--line);padding-top:23px;margin-bottom:80px}.section-heading h2,.section-heading p{font-size:14px;font-weight:400;margin:0}.section-heading h2 span{color:var(--muted);margin-left:8px}.section-heading p{color:var(--muted)}.gallery{display:grid;grid-template-columns:1fr 1fr;column-gap:8vw;row-gap:100px;max-width:1400px;margin:0 auto;padding:0 3vw}.project{margin:0;min-width:0}.project:nth-child(even){transform:translateY(145px)}.project button{display:block;width:100%;padding:0;text-align:left}.project .picture{overflow:hidden;background:#e6e7e1;aspect-ratio:1/1.05}.project:nth-child(3n) .picture{aspect-ratio:1.2}.project img{display:block;width:100%;height:100%;object-fit:cover;transition:transform .8s cubic-bezier(.2,.65,.3,1)}.project button:hover img{transform:scale(1.035)}.project figcaption{display:flex;justify-content:space-between;gap:15px;padding-top:18px;line-height:1.5;font-size:16px}.project .project-type{display:block;color:var(--muted);font-size:13px;margin-top:4px}.project .project-arrow{font-size:22px;transition:transform .3s}.project button:hover .project-arrow{transform:translate(3px,-3px)}.work{padding-bottom:210px}.gallery-status{text-align:center;color:var(--muted);padding:60px 0}.studio{padding-top:55px;padding-bottom:130px}.studio-body{display:grid;grid-template-columns:1.2fr 1fr;gap:10vw}.large-copy{font-size:clamp(36px,5.1vw,80px);letter-spacing:-.06em;line-height:1.08;margin:0}.studio-copy{max-width:470px}.studio-copy p{font-size:18px;line-height:1.65;margin:0 0 27px;color:#60655b}.services{display:grid;grid-template-columns:32px 1fr;margin-top:55px}.services span,.services h3{font-size:14px;font-weight:400;border-top:1px solid var(--line);padding:17px 0;margin:0}.services span{color:var(--muted)}footer{background:#e9ece4;padding-bottom:28px!important}.contact-top{display:flex;justify-content:space-between;align-items:start;gap:24px}.contact-top p{font-size:17px;line-height:1.5;margin:0}.contact-link{border-bottom:1px solid #a6ad9d;padding-bottom:10px;font-size:14px}.contact-link span{margin-left:50px}.footer-word{display:flex;align-items:center;justify-content:space-between;font-size:clamp(80px,18.4vw,320px);line-height:1.1;letter-spacing:-.075em;margin:70px 0 85px;white-space:nowrap}.footer-word span{font-size:.65em;margin-right:2vw;transition:transform .4s}.footer-word:hover span{transform:translate(8px,-8px)}.footer-bottom{display:flex;justify-content:space-between;flex-wrap:wrap;gap:20px;border-top:1px solid #c5cbbc;padding-top:22px;font-size:12px;color:#61695a}.footer-bottom a:hover{text-decoration:underline}dialog{padding:24px 32px;border:0;width:100vw;max-width:none;height:100dvh;max-height:none;background:#f5f5f0;color:var(--ink)}dialog::backdrop{background:#f5f5f0}dialog[open]{display:flex;flex-direction:column}.lightbox-top,.lightbox-bottom{display:flex;justify-content:space-between;align-items:center;gap:16px;font-size:14px}.lightbox-top button{padding:12px}.lightbox-top button span{font-size:25px;margin-left:16px}.lightbox-image{flex:1;min-height:0;display:flex;align-items:center;justify-content:center;padding:22px}.lightbox-image img{max-width:100%;max-height:100%;object-fit:contain}.lightbox-bottom button{font-size:26px;padding:12px 20px}.noscript{padding:40px}.reveal{animation:appear .8s both}@keyframes appear{from{opacity:0;translate:0 20px}to{opacity:1;translate:0 0}}
+@media(min-width:1700px){.intro{top:35%}}@media(max-width:800px){html{scroll-padding-top:95px}.navigation{top:16px;left:16px;right:16px;width:auto;display:flex;align-items:center;justify-content:space-between;padding:16px 20px}.wordmark{font-size:24px;margin:0}.navigation nav{display:flex;gap:20px;font-size:13px}.hero{height:900px;max-height:1100px}.intro{left:26%;top:33%;width:55%}h1{font-size:40px}.hero-image:nth-child(1){width:40%;height:24%;top:0;left:-5%}.hero-image:nth-child(2){width:42%;height:29%;left:71%;top:14%}.hero-image:nth-child(3){width:35%;height:27%;left:-15%;top:49%}.hero-image:nth-child(4){width:44%;height:27%;left:67%;top:67%}.hero-image:nth-child(5){width:26%;height:12%;left:43%;top:-5%}.hero-image:nth-child(6){width:40%;height:19%;left:12%;top:75%}.hero-caption{display:none}.hero-bottom{left:16px;right:16px;bottom:16px}.canvas-controls{margin-left:0;margin-right:10px}.canvas-hint{font-size:11px}.section{padding:75px 24px}.section-heading{margin-bottom:45px}.section-heading p{font-size:12px}.gallery{gap:55px 30px;padding:0}.project:nth-child(even){transform:translateY(80px)}.project figcaption{font-size:14px}.project .project-type{font-size:12px}.work{padding-bottom:150px}.studio-body{gap:50px;grid-template-columns:1fr}.large-copy{font-size:54px}.studio-copy{max-width:none;margin-left:18%}.studio-copy p{font-size:16px}.footer-word{margin:65px 0}.footer-bottom{font-size:12px}.contact-top p{font-size:15px}}@media(max-width:480px){.navigation{padding:15px 14px}.navigation nav{gap:14px;font-size:12px}.hero{height:830px}.intro{left:24%;top:33%;width:69%}h1{font-size:36px}.intro p{font-size:14px}.eyebrow{font-size:10px!important;margin-bottom:22px!important}.hero-image:nth-child(2){left:75%;top:13%;height:21%}.hero-image:nth-child(3){left:-22%;width:39%}.hero-image:nth-child(4){top:72%;left:66%;height:23%}.hero-image:nth-child(6){left:7%;top:77%;width:48%;height:17%}.hero-bottom .canvas-hint{display:none}.canvas-controls{margin-left:auto}.gallery{grid-template-columns:1fr;row-gap:46px}.project:nth-child(even){transform:none}.project .picture{aspect-ratio:1/1.03}.work{padding-bottom:70px}.section-heading{gap:15px}.section-heading p{max-width:125px;line-height:1.5;text-align:right}.section-heading h2{line-height:1.5}.studio{padding-top:15px}.large-copy{font-size:48px}.studio-copy{margin-left:0}.footer-word{font-size:21vw;letter-spacing:-.07em}.footer-word span{font-size:.55em}.footer-bottom{display:grid;gap:15px}.contact-link span{margin-left:14px}.contact-top p{font-size:14px}dialog{padding:15px}.lightbox-image{padding:15px 0}.lightbox-top{font-size:13px}}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*:before,*:after{animation:none!important;transition:none!important}}
+/* The homepage is one spatial canvas, including its text panels. */
+html,body{height:100%;overflow:hidden;overscroll-behavior:none;scroll-behavior:auto}
+.hero{height:100dvh;min-height:0;max-height:none}
+.canvas{touch-action:none;user-select:none;outline-offset:-6px}
+.image-plane{transform-origin:50% 50%}
+.hero-image{cursor:inherit;will-change:transform}
+.intro{pointer-events:auto;user-select:none;will-change:transform}
+.canvas.dragging,.canvas.dragging *{cursor:grabbing!important}
+.canvas-panel{position:absolute;width:min(420px,calc(100vw - 48px));padding:32px;background:var(--paper);will-change:transform}
+.canvas-panel.studio{left:135%;top:18%;padding:32px}
+.canvas-panel#contact{left:-85%;top:25%;padding:32px!important;background:#e9ece4}
+.canvas-panel .section-heading{margin-bottom:24px;padding-top:16px}
+.canvas-panel .section-heading p,.canvas-panel .large-copy,.canvas-panel .services,.canvas-panel .footer-word,.canvas-panel .footer-bottom>a{display:none}
+.canvas-panel .studio-body{display:block}.canvas-panel .studio-copy{margin:0;max-width:none}
+.canvas-panel .studio-copy p{font-size:16px;line-height:1.55;margin-bottom:18px}
+.canvas-panel .contact-top{flex-direction:column;gap:30px}
+.canvas-panel .footer-bottom{margin-top:40px;line-height:1.5}
+.gallery-status{position:fixed;bottom:75px;left:50%;translate:-50% 0;background:var(--paper);padding:16px;z-index:3;max-width:90vw}
+.hero-bottom{z-index:4}.navigation{z-index:10}
+@media(max-width:800px){.intro{left:28%;top:34%;width:65%}.intro h1{font-size:clamp(26px,4.8vw,40px)}.intro p{font-size:14px}.intro .eyebrow{font-size:10px!important}.canvas-panel{padding:24px!important}.canvas-panel .studio-copy p{font-size:14px}.hero-bottom .canvas-hint{display:none}.hero-image:nth-child(6){top:84%}}
+.hero{overflow:clip}.canvas-panel#contact{left:-115%}
+/* Equal-width masonry columns share one foreground depth, preserving their gutters. */
+.image-plane{isolation:isolate}
+.hero-image{z-index:1}
+.intro,.canvas-panel{z-index:2;background:var(--paper)}
+.intro h1{font-size:clamp(27px,2.5vw,38px)}
+.intro p{font-size:14px}
+.background-wordmark{position:absolute;z-index:0;pointer-events:none;white-space:nowrap;font-family:Helvetica,Arial,sans-serif;font-size:clamp(100px,15vw,250px);font-weight:800;line-height:.85;letter-spacing:-.065em;color:#080808;will-change:transform}
+.canvas-panel{padding:22px!important}
+.canvas-panel .studio-copy p{font-size:14px}
+/* Monochrome photographs reveal their original color on hover or keyboard focus. */
+.hero-image{filter:none;scale:1;transition:scale .45s cubic-bezier(.2,.65,.3,1);transform-origin:center}
+.hero-image:hover{filter:none}
+.hero-image img,#full-image{filter:grayscale(1);transition:filter .55s ease,scale .45s cubic-bezier(.2,.65,.3,1)}
+.hero-image:focus-visible{scale:1.035;z-index:3}
+.hero-image:focus-visible img{filter:grayscale(0)}
+@media(hover:hover) and (pointer:fine){
+  .hero-image:hover{scale:1.035;z-index:3}
+  .hero-image:hover img,#full-image:hover{filter:grayscale(0)}
+  #full-image:hover{scale:1.02}
+}
+/* White difference blending renders black on white and inverts every surface beneath. */
+.inverting-cursor{position:fixed;left:0;top:0;width:18px;height:18px;border-radius:50%;background:#fff;mix-blend-mode:difference;pointer-events:none;z-index:2147483647;display:none;will-change:transform}
+body.custom-cursor-active .inverting-cursor{display:block}
+body.custom-cursor-active,body.custom-cursor-active *{cursor:none!important}
+@media(forced-colors:active){body.custom-cursor-active .inverting-cursor{display:none}body.custom-cursor-active,body.custom-cursor-active *{cursor:auto!important}}
+/* Keep camera translation on the tile; enlarge only the image inside it. */
+.hero-image,.hero-image:hover,.hero-image:focus-visible{scale:1;overflow:visible}
+.hero-image img{scale:1;transform-origin:50% 50%}
+.hero-image:focus-visible img{scale:1.035}
+@media(hover:hover) and (pointer:fine){.hero-image:hover img{scale:1.035}}
+/* The full-screen viewer always shows the original photograph. */
+#full-image,#full-image:hover{filter:none;scale:1;transform:none;transition:none}
+/* Floating text, with a single typography size throughout the interface. */
+body,body *:not(.background-wordmark){font-family:Arial,sans-serif!important;font-size:14px!important;letter-spacing:normal!important}
+.navigation,.canvas-panel,.canvas-panel#team,.canvas-panel#about,.intro,.hero-caption,.canvas-hint,.canvas-controls,.gallery-status,.skip{background:transparent!important;backdrop-filter:none!important;border:0}
+.navigation{width:auto;padding:12px}
+.navigation nav{gap:8px}
+.intro h1,.intro p,.intro .text-link,.canvas-panel p,.canvas-panel h2{line-height:1.65}
+.canvas-panel{padding:0!important;color:var(--ink)}
+.canvas-panel p{margin:0 0 24px}
+.canvas-panel h2{margin:32px 0 16px}
+.canvas-panel p:last-child{margin-bottom:0}
+.canvas-panel .studio-copy p{color:var(--ink)}
+.canvas-panel a{overflow-wrap:anywhere}
+.canvas-panel a:hover{text-decoration:underline}
+.canvas-controls{gap:8px}
+/* Uniform regular-weight foreground typography; preserve the background wordmark. */
+body,body *:not(.background-wordmark){font-family:Arial,sans-serif!important;font-size:14px!important;font-weight:400!important}
+/* Team disclosures retain the gallery's transparent, regular typography. */
+#team .team-entry{margin:0 0 16px}
+#team .team-entry:last-child{margin-bottom:0}
+#team .team-trigger{display:block;width:100%;padding:0;line-height:1.65;text-align:left;background:transparent}
+#team .team-trigger:hover{text-decoration:underline}
+#team .team-details{display:grid;grid-template-rows:0fr;visibility:hidden;transition:grid-template-rows .35s ease,visibility 0s .35s}
+#team .team-entry.is-open .team-details{grid-template-rows:1fr;visibility:visible;transition:grid-template-rows .35s ease,visibility 0s}
+#team .team-details-inner{min-height:0;overflow:hidden}
+#team .team-details-copy{padding:16px 0 8px}
+#team .team-details-copy p{margin:0 0 16px}
+#team .team-details-copy p:last-child{margin:0}
+/* Crossfade between the inverted foreground wordmark and its original rear layer. */
+.canvas-paper{position:absolute;inset:-1px;background:var(--paper);z-index:-1;pointer-events:none;will-change:transform}
+.background-wordmark{opacity:0;transition:opacity .4s ease;pointer-events:none}
+.background-wordmark.wordmark-front{z-index:4;color:#fff;mix-blend-mode:difference;opacity:1}
+.canvas.dragging .background-wordmark{opacity:1}
+.canvas.dragging .background-wordmark.wordmark-front{opacity:0}
+/* The viewer's transparent backdrop allows the photograph to fly to and from its tile. */
+#lightbox::backdrop{background:transparent}
+#full-image{will-change:transform,opacity}
+/* Camera motion is composited once for the shared grid, not once per tile. */
+.hero-image,.intro,.canvas-panel{will-change:auto}
+
+/* Reveal decoded photographs from paper white before the opening gap closes. */
+.hero-image{background:transparent}
+.hero-image img{opacity:0;transition:opacity .9s ease,filter .55s ease,scale .45s cubic-bezier(.2,.65,.3,1)}
+.hero-image img.image-ready{opacity:1}
+.canvas.entrance-loading .hero-image img{scale:1}
+
+
+/* Text tiles share the photographs opening reveal and camera movement. */
+.entrance-text{opacity:0;transition:opacity .9s ease}
+.entrance-text.entrance-text-ready{opacity:1}
+
+
+/* Start text hidden before the first layout, just like undecoded images. */
+.intro,.canvas-panel{opacity:0}
+.entrance-text.entrance-text-ready{opacity:1}
+
+/* HQ and LQ switch below the navigation; the collection on show keeps its underline. */
+.collection-switch{display:flex;gap:16px;margin-top:24px}
+.collection-switch button{padding:0;background:transparent}
+.collection-switch button:after{content:'';height:1px;background:currentColor;display:block;transform:scaleX(0);transform-origin:left;transition:transform .3s}
+.collection-switch button:hover:after,.collection-switch button[aria-pressed="true"]:after{transform:scaleX(1)}
+@media(max-width:800px){.collection-switch{margin-top:0}}
+/* Wordmark: Arial Black where installed (Windows, macOS); elsewhere the bundled Archivo Black (SIL Open Font License,
+   fonts/OFL.txt), whose wider letters need slightly looser spacing to match. app.js adds .wordmark-fallback. */
+@font-face{font-family:"Wordmark Arial Black";src:local("Arial Black"),local("Arial-Black");font-weight:900}
+@font-face{font-family:"Wordmark Archivo Black";src:url("fonts/archivo-black-latin.woff2") format("woff2");font-weight:900;font-display:block}
+.background-wordmark{font-family:"Wordmark Arial Black","Wordmark Archivo Black",Helvetica,Arial,sans-serif;font-weight:900}
+.background-wordmark.wordmark-fallback{letter-spacing:-.05em}
+/* LQ keeps the color reveal without enlarging images on hover or focus. */
+.canvas[data-collection="LQ"] .hero-image img{scale:1}
+.canvas[data-collection="LQ"] .hero-image:focus-visible{outline:2px solid #525d47;outline-offset:6px}

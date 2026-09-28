@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="MORETHANVIZ. is a visualization laboratory based in Toronto, Canada.">
+  <meta name="theme-color" content="#fafaf8"><title>MORETHANVIZ. — Visualization studio</title>
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Cpath fill='%23262624' d='M0 0h32v32H0z'/%3E%3Cpath fill='none' stroke='%23fafaf8' stroke-width='2' d='M8 14V8h6m4 0h6v6m0 4v6h-6m-4 0H8v-6'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="styles.css"><script src="app.js" defer></script>
+</head>
+<body>
+  <a class="skip" href="#home">Skip to gallery</a>
+  <header class="navigation"><nav aria-label="Main navigation"><a href="#work">Selected work</a><a href="#about">About</a><a href="#team">Team</a></nav><div class="collection-switch" role="group" aria-label="Image collection"><button type="button" data-collection="HQ" aria-pressed="true">HQ</button><button type="button" data-collection="LQ" aria-pressed="false">LQ</button></div><span class="nav-note">Architecture, in perspective.</span></header>
+  <main>
+    <section class="hero" id="home" aria-label="Explore our image collection">
+      <div id="canvas" class="canvas" tabindex="0" aria-label="Image canvas. Drag to explore, use arrow keys to pan, and plus or minus to zoom."><div id="image-plane" class="image-plane"></div></div>
+      <div class="intro"><h1>Architecture, mediated.</h1><span class="text-link">Drag to explore the collection</span></div>
+      <div class="hero-bottom"><span class="hero-caption">morethanviz.</span><div class="canvas-controls" aria-label="Canvas controls"><button id="zoom-out" aria-label="Zoom out">−</button><button id="reset" aria-label="Reset canvas">100%</button><button id="zoom-in" aria-label="Zoom in">+</button></div><span class="canvas-hint">Drag to pan · scroll to zoom · click to view</span></div>
+    </section>
+    <p id="gallery-status" class="gallery-status" role="status" hidden></p>
+    <section class="studio section" id="about" aria-label="About"><div class="studio-copy">
+<p><strong>We believe a powerful image functions less as a direct translation of reality, but as a reinterpretation of it.</strong></p>
+<p><strong>Visualization, in this saturated age of technology and AI, will never emerge from a deliberate and predictable process.</strong></p>
+<p><strong>With these premises, MORETHANVIZ. operates first as a laboratory rather than a conventional production studio.</strong></p>
+<p><strong>—<br>MORETHANVIZ. is based in Toronto, Canada.</strong></p>
+</div></section>
+  </main>
+  <section class="section" id="team" aria-label="Team"><div class="team-entry"><button type="button" class="team-trigger" id="team-contact-trigger" aria-expanded="false" aria-controls="team-contact-details">Contact</button><div class="team-details" id="team-contact-details" role="region" aria-labelledby="team-contact-trigger" aria-hidden="true" inert><div class="team-details-inner"><div class="team-details-copy"><p>Preferred project lead time: 4 - 6 weeks in advance of deadline</p><p><a href="mailto:contact@morethanviz.studio">contact@morethanviz.studio</a></p></div></div></div></div><div class="team-entry"><button type="button" class="team-trigger" id="team-alvin-trigger" aria-expanded="false" aria-controls="team-alvin-details">Alvin Huang</button><div class="team-details" id="team-alvin-details" role="region" aria-labelledby="team-alvin-trigger" aria-hidden="true" inert><div class="team-details-inner"><div class="team-details-copy"><p>Alvin JY Huang is an architectural designer born in Toronto, Ontario, Canada and is recognized for his achievements in the academic realm and professional industry experience. With numerous awards/publications recognizing his excellence in visualization and academics along with over three years of experience in both visualization studios and architectural design offices, he has developed a comprehensive understanding of the industry and craft of architecture. Holding a Bachelor of Architectural Science with Distinction from Toronto Metropolitan University and currently pursuing a Masters of Architecture at Harvard University, Alvin is poised to make significant contributions to the architectural realm.</p></div></div></div></div><div class="team-entry"><button type="button" class="team-trigger" id="team-byron-trigger" aria-expanded="false" aria-controls="team-byron-details">Byron Cai</button><div class="team-details" id="team-byron-details" role="region" aria-labelledby="team-byron-trigger" aria-hidden="true" inert><div class="team-details-inner"><div class="team-details-copy"><p>Byron Cai is an architectural designer from Canada. He has previous architectural experience working at internationally renowned firms including OMA, Diller Scofidio + Renfro, 3XN, and KPMB. Byron holds a Bachelor of Architectural Studies from University of Waterloo and a Master of Architecture from Yale University where he was awarded the Gertraud A. Wood Fellowship. Byron is currently a designer at REX Architecture in New York City.</p></div></div></div></div></section>
+  <dialog id="lightbox" aria-labelledby="lightbox-title"><div class="lightbox-top"><span id="lightbox-title"></span><button id="close-lightbox" aria-label="Close image">Close <span aria-hidden="true">×</span></button></div><div class="lightbox-image"><img id="full-image" alt=""></div><div class="lightbox-bottom"><span id="image-number"></span><div><button id="previous" aria-label="Previous image">←</button><button id="next" aria-label="Next image">→</button></div></div></dialog>
+  <noscript><p class="noscript">Enable JavaScript to explore the image collection. Visit <a href="https://ramka.co/">Ramka</a> for the reference portfolio.</p></noscript>
+</body>
+</html>
+
+
